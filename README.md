@@ -4,4 +4,4 @@
 
 - no-use-toolkit
 - use-tookit
-- master: createSlice
+- create-slice
